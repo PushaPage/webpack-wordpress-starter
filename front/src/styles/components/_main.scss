@@ -1,0 +1,7 @@
+body {
+    font-family: $font-primary;
+    background-image: url("../images/static/webpack-logo.png");
+    background-size: contain;
+    user-select: none;
+    backdrop-filter: blur(10px);
+}
